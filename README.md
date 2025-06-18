@@ -17,7 +17,7 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Grilli Desktop Demo](file:///C:/Users/roya4/OneDrive/Desktop/Screenshot%202024-12-04%20235415.png")
 
 ### Prerequisites
 
