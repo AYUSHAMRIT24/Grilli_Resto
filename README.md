@@ -17,7 +17,14 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](file:///C:/Users/roya4/OneDrive/Desktop/Screenshot%202024-12-04%20235415.png")
+![Screenshot 2024-12-04 235415](https://github.com/user-attachments/assets/aae26a79-a35a-48a9-b898-730196a7f003)
+
+![Screenshot 2024-12-05 004633](https://github.com/user-attachments/assets/898c601a-a29b-458c-a40a-6222d25f934a)
+![Screenshot 2024-12-05 004546](https://github.com/user-attachments/assets/2c342c01-b063-40a5-93d0-01fcd0a52241)
+
+![Screenshot 2024-12-05 004507](https://github.com/user-attachments/assets/0cf22d2d-cd7f-41c3-85a4-1e06274c60e4)
+
+![Screenshot 2024-12-04 235508](https://github.com/user-attachments/assets/ab628170-1df7-46a8-beea-ecd993be21be)
 
 ### Prerequisites
 
